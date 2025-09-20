@@ -1,0 +1,4 @@
+/.vscode
+/build
+/twitch_watcher.py
+/twitch_watcher.spec
