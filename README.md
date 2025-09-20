@@ -1,7 +1,7 @@
 ## 📥 下載與使用方式
 
 ### 下載
-- 在本頁下方 **Assets** 區塊，下載 `twitch_watcher.exe`  
+- 在本頁右方 **Releases** 區塊，下載 `twitch_watcher.exe`  
 - 下載後即可直接執行，無需安裝 Python  
 
 ### 使用方式
