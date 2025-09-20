@@ -31,7 +31,7 @@
 
 4. 啟動 `twitch_watcher.exe`  
    - 將 **Client ID** 和 **Client Secret** 填入程式  
-   - 按下「重新取得 Token」即可自動產生 Access Token  
+   - 自動產生 Access Token  
    - （Access Token 會自動管理，不需人工操作）
 
 ⚠ 注意：  
